@@ -15,38 +15,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-**Programming:**
-
-* Java
-* Python
-
-**Biotech & Bioinformatics:**
-
-* Computational Biology
-* Biological Data Analysis
-* Protein & Sequence Analysis (learning)
-
-**Core Concepts:**
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Basics of Machine Learning in Biology
-
----
-
-## 📌 Projects & Work
-
-* 🧪 **Biotechnology-focused academic projects**
-* 💡 **Algorithmic problem-solving (Java-based)**
-* 📊 **Biological data modeling & analysis (in progress)**
-
-> *Check my repositories to see my latest work and learning journey.*
-
----
-
-## 💻 Technical Skills & Learning
+## � Technical Skills & Learning
 
 <table>
 <tr>
@@ -71,17 +40,21 @@
 <td valign="top" width="50%">
 
 ### 🧬 Bioinformatics Skills
+- Computational Biology
+- Biological Data Analysis
 - Sequence Analysis (DNA/RNA/Protein)
+- Protein & Sequence Analysis
 - FASTA / FASTQ file handling
 - Basic Alignment Concepts
 - Biological Databases (NCBI, UniProt)
-- Computational Biology Foundations
 
 ### 🧩 Core CS Foundations
-- Data Structures (Arrays, Strings, Stacks)
+- Data Structures & Algorithms
+- Object-Oriented Programming
 - Algorithms (Greedy, Searching, Sorting)
 - Time & Space Complexity
 - Problem Solving Mindset
+- Basics of Machine Learning in Biology
 
 </td>
 </tr>
