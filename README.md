@@ -62,37 +62,6 @@
 
 ---
 
-## 🧪 Featured Projects
-
-* 🧬 **Bioinformatics Algorithms** – Sequence alignment, GC content analysis, motif finding
-* 📊 **Biological Data Analysis** – Parsing FASTA/FASTQ, statistical analysis
-* 🧠 **DSA Implementations** – Arrays, strings, recursion, greedy algorithms (Java)
-* 🔬 **Research Tools** – Scripts for sequence analysis & automation
-
-> *Check my pinned repositories for detailed implementations*
-
----
-
-## 🚀 Learning Roadmap
-
-* ✅ Java fundamentals & OOP concepts
-* 🔄 Python for Bioinformatics & Automation
-* 🔄 Advanced Algorithms for Biological Data
-* 📌 AI/ML fundamentals for Life Sciences
-* 📌 Contributing to open-source bioinformatics tools
-
----
-
-## 🔧 Development Practices
-
-* Clean, well-documented code
-* Git & GitHub version control
-* README-driven projects
-* Consistent problem-solving practice
-* Learning in public approach
-
----
-
 ### 🎯 Career Goal
 
 > *Aspiring Bioinformatics & Computational Biology professional, combining biotechnology knowledge with strong programming and algorithmic thinking.*
