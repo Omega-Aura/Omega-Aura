@@ -55,7 +55,7 @@
 ## 📫 Connect With Me
 
 * GitHub: [Omega-Aura](https://github.com/Omega-Aura)
-* LinkedIn: *(Add when ready)*
+* LinkedIn: [Aritra Das Kanungo](https://www.linkedin.com/in/aritra-das-kanungo/)
 
 ---
 
