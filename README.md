@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omega-Aura
+# 👋 Hi, I'm Aritra Das Kanungo
 
 🎓 **B.Tech Biotechnology Student**  
 💻 **Aspiring Computational Biology & Software Enthusiast**  
