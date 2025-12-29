@@ -46,13 +46,38 @@
 
 ---
 
-## 📈 GitHub Stats
+## � Technical Skills & Learning
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omega-Aura&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omega-Aura&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Omega-Aura&theme=radical&hide_border=true)](https://git.io/streak-stats)
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### Focus Areas
+- 🧬 **Bioinformatics & Computational Biology**
+- 📊 **Data Structures & Algorithms**
+- 🤖 **AI/ML in Biological Sciences**
+- 💾 **Biological Data Analysis**
+
+### Current Learning
+- Advanced Java Programming
+- Python for Bioinformatics
+- Sequence Analysis Tools
+
+</td>
+</tr>
+</table>
 
 ---
 
