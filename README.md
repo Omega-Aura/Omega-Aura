@@ -49,13 +49,11 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omega-Aura&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omega-Aura&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omega-Aura&theme=radical&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Omega-Aura&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omega-Aura&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Omega-Aura&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
